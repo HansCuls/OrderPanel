@@ -1,0 +1,44 @@
+*,
+html {
+  margin: 0;
+  padding: 0;
+}
+.bg {
+  background: skyblue;
+}
+.bghtml {
+  background-color: RGB(0,255,254);
+}
+.navbar {
+  background: black;
+}
+.h4nav {
+  color: white;
+}
+.navbar1 {
+  background-color: white;
+}
+.ulnav1 {
+  display: flex;
+  justify-content: center;
+  background-color: skyblue;
+  height: 80px;
+  align-items: center;
+}
+.linav1 {
+  color: black;
+  border: 1px solid black;
+  list-style-type: none;
+  padding: 10px;
+  margin: 5px;
+  height: 20px;
+  background-color: skyblue;
+}
+.navbar2 {
+  background: skyblue;
+  display: flex;
+}
+.h3nav {
+  margin: 5px;
+  padding: 5px;
+}
